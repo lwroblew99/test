@@ -20,6 +20,7 @@ produkty[produkty.length]="blabla";
  *
  */
 
+//new linekkk
 //document.getElementById("tablice").innerHTML=produkty.pop();
 //document.getElementById("tablice").innerHTML=produkty.join("<br>");
 document.getElementById("tablice").innerHTML=produkty.push("nowy element");
